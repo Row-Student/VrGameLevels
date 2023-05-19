@@ -472,7 +472,11 @@ MonoBehaviour:
 
 
     Compatible objects make
-    the red lazers turn white!'
+    the red lazers turn white!
+
+
+    If at any point you are stuck, Press X and Y
+    to leave to the main menu.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -594,7 +598,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 270572947}
   m_LocalRotation: {x: 0.031611107, y: -0.8031298, z: 0.050935797, w: 0.5927806}
-  m_LocalPosition: {x: 0, y: 0, z: -0.416}
+  m_LocalPosition: {x: 0, y: 0, z: -0.4172}
   m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -603,7 +607,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 6.851, y: -107.106, z: 0.555}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.533, y: 0.458}
+  m_AnchoredPosition: {x: -0.536, y: 0.4847}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &406015780
